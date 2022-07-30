@@ -1,0 +1,33 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://kestrelpool.com/logo.png",
+        "url_png_logo": "",
+        "location": "UK",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "https://t.me/kestrelpool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "UK",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Independent Stake Pool Operator based in the UK",
+            "server": "",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "856e676567c8a484c8d9b6726c8844e2857445eab8726d27478dd907",
+        "1": ""
+      }
+    }
+}
